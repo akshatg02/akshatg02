@@ -1,4 +1,29 @@
-<h2 align="left">Namaste World! My name is Akshat and I'm a Full Stack Developer 🔥</h2>
+<h1 align="center">Hi 👋, I'm Akshat Garg</h1>
+<h3 align="center">A passionate Fullstack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatg02&label=Profile%20views&color=0e75b6&style=flat" alt="akshatg02" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatg02" alt="akshatg02" /></a> </p>
+
+- 🔭 I’m currently studying at **Chitkara University**
+
+- 🌱 I’m currently **3rd B.Tech(CSE) Student**
+
+- 🤝 I’m interested in **Web Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/akshatg02?tab=repositories](https://github.com/akshatg02?tab=repositories)
+
+- 📫 How to reach me **akshatgarg855@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akshat-garg-9021a8225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-garg" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its.akshattt?igsh=MWo1M3VndzN2NmRzeQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.akshattt" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=akshatgarg855@gmail.com&tf=cm" target="blank"><img align="center" src="https://icons8.com/icon/Cjuj2uISMdQ1/gmail" alt="sv176734" height="30" width="40" /></a>
+
+<a href="https://auth.geeksforgeeks.org/user/akshatg4pmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="saurabhshukla_13" height="30" width="40" /></a>
+</p>
+
 
 ###
 
