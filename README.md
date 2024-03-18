@@ -66,10 +66,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akshatg02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=Akshat's%20Github%20Stats" 
 align="left" height="150" alt="stats graph"  />
-  <img align="center" height="200" src="https://media1.tenor.com/m/epNMHGvRyHcAAAAd/gigachad-chad.gif"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatg02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" align="left" height="150" alt="languages graph" />
   
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatg02&" alt="akshatg02" /></p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatg02&" alt="akshatg02" /></p><img align="right" height="200" src="https://media1.tenor.com/m/epNMHGvRyHcAAAAd/gigachad-chad.gif"  />
 
 </div>
 
